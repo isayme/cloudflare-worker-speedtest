@@ -1,0 +1,3 @@
+name = "speedtest"
+main = "src/index.js"
+compatibility_date = "2022-10-18"

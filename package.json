@@ -1,0 +1,16 @@
+{
+  "name": "speedtest",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "devDependencies": {
+    "wrangler": "^2.1.10"
+  },
+  "dependencies": {
+    "filesize-parser": "^1.5.0",
+    "showdown": "^2.1.0"
+  }
+}
